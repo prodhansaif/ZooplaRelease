@@ -1,0 +1,125 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-06T17:42:38.229Z",
+        "line": 5,
+        "name": "User able login the application with valid user credentials",
+        "description": "",
+        "id": "user-able-to-login-the-zoopla-application;user-able-login-the-application-with-valid-user-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1604122800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User able to open any browser",
+            "match": {
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_open_any_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2771909800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User able to enter \"https://www.zoopla.co.uk/\" URL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.zoopla.co.uk/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_enter_url(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1415318100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User able to click on the Sign-in button",
+            "match": {
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_click_on_the_sign_in_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 213093900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User able to enter userName",
+            "match": {
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_enter_user_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 991700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User able to enter the password",
+            "match": {
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_enter_the_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 173549000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User able to click on Login button",
+            "match": {
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2593730400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User able to verify information as \"Welcome back to your account\" on the grid",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Welcome back to your account\"",
+                  "offset": 35
+                }
+              ],
+              "location": "zooplarelease.stepdefinition.LoginTest.user_able_to_verify_information_as_on_the_grid(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Sanity"
+          }
+        ]
+      }
+    ],
+    "name": "User able to Login the Zoopla application",
+    "description": "",
+    "id": "user-able-to-login-the-zoopla-application",
+    "keyword": "Feature",
+    "uri": "file:Features/ZRloginTest.feature",
+    "tags": []
+  }
+]

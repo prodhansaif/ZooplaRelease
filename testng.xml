@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ZooplaRelease">	
+<listeners>
+<listener class-name="zooplarelease.listener.MyListnerClass"/>
+</listeners>
+ <test name="@Sanity" >
+      <classes>
+         <class name="zooplarelease.myrunner.ZRmyRunner"/>
+      </classes>
+   </test>
+</suite> 

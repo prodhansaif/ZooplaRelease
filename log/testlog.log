@@ -1,0 +1,500 @@
+2022-09-01 16:15:37,312 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:15:37,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:15:37,622 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:15:38,853 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:15:43,617 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:15:45,143 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:15:45,341 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:15:45,342 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:15:45,496 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:28:11,843 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:31:31,841 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:31:31,848 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:31:32,123 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:31:32,139 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:31:33,377 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:31:38,395 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:31:40,197 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:31:40,413 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:31:40,414 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:31:40,556 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:31:48,614 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:31:48,622 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:31:48,891 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:31:48,902 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:31:50,155 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:31:54,563 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:31:56,165 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:31:56,366 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:31:56,367 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:31:56,508 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:32:51,568 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:32:51,576 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:37:40,622 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:37:40,630 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:37:42,313 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:37:48,177 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:37:49,647 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:37:49,817 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:37:49,818 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:37:49,896 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:38:00,106 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:38:00,116 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:38:03,063 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:38:07,616 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:38:11,371 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:38:11,558 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:38:11,558 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:38:11,647 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:38:21,288 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:38:21,295 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:38:24,264 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:38:27,724 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:38:29,052 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:38:29,222 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:38:29,223 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:38:29,302 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:46:00,539 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:46:00,545 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:46:03,816 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:46:06,493 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:46:08,021 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:46:08,183 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:46:08,184 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:46:08,273 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:46:17,839 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:46:17,847 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:46:20,849 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:46:24,021 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:46:25,379 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:46:25,550 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:46:25,551 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:46:25,628 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:48:30,954 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:48:30,961 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:48:33,881 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:48:37,675 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:48:40,422 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:48:48,979 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:48:48,983 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:48:51,931 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:48:57,356 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:49:00,739 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:49:00,937 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:49:00,938 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:49:01,032 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:49:08,245 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:49:08,253 - QA Imam = Prodhan -INFO - User able to open edge driver
+2022-09-01 16:49:11,528 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:49:14,158 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:49:15,791 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:49:15,961 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:49:15,961 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:49:16,044 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:49:52,129 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:49:52,137 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:49:53,201 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:49:53,212 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:49:54,395 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:49:59,488 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:50:01,650 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:50:01,871 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:50:01,872 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:50:02,002 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:50:10,085 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:50:10,094 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:50:10,365 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:50:10,382 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:50:11,564 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:50:14,928 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:50:16,872 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:50:17,086 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:50:17,086 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:50:17,251 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:50:24,934 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:50:24,941 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:50:25,205 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:50:25,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:50:26,374 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:50:30,535 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:50:32,563 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:50:32,772 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:50:32,774 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:50:32,952 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:50:42,735 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:50:42,743 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:50:43,014 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:50:43,030 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:50:44,268 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:50:48,427 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:50:50,252 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:50:50,466 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:50:50,467 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:50:50,613 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 16:55:36,923 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 16:55:36,930 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 16:55:37,270 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 16:55:37,285 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 16:55:38,508 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 16:55:46,163 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 16:55:47,838 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 16:55:48,056 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 16:55:48,057 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 16:55:48,210 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 20:43:03,304 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 20:43:03,313 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 20:43:03,974 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 20:43:03,985 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 20:43:05,135 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 20:43:08,034 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 20:43:10,148 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 20:43:10,362 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 20:43:10,362 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 20:43:10,498 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 20:43:21,086 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 20:43:21,095 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 20:43:21,372 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 20:43:21,380 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 20:43:22,581 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 20:43:24,990 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 20:43:26,488 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 20:43:26,697 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 20:43:26,697 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 20:43:26,840 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 20:51:38,322 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 20:51:38,329 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 20:51:38,581 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 20:51:38,594 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 20:51:39,833 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 20:51:42,982 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 20:51:44,765 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 20:51:44,972 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 20:51:44,973 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 20:51:45,111 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 20:51:57,053 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 20:51:57,060 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 20:51:57,323 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 20:51:57,336 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 20:51:58,567 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 20:52:03,802 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 20:52:05,863 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 20:52:06,093 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 20:52:06,094 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 20:52:06,235 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-01 20:52:31,736 - QA Imam = Prodhan -INFO - User able to open any browser
+2022-09-01 20:52:31,745 - QA Imam = Prodhan -INFO - User able to open chrome driver
+2022-09-01 20:52:32,015 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-01 20:52:32,028 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-01 20:52:33,194 - QA Imam = Prodhan -INFO - User able to enter {string} URL
+2022-09-01 20:52:37,675 - QA Imam = Prodhan -INFO - User able to click on the Sign-in button
+2022-09-01 20:52:39,419 - QA Imam = Prodhan -INFO - User able to enter userName
+2022-09-01 20:52:39,624 - QA Imam = Prodhan -INFO - User able to enter the password
+2022-09-01 20:52:39,625 - QA Imam = Prodhan -INFO - User able to click on Login button
+2022-09-01 20:52:39,781 - QA Imam = Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 19:16:40,036 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 19:16:40,045 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-02 19:16:40,917 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-02 19:16:40,932 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 19:16:42,816 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 19:16:45,011 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 19:16:46,634 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 19:16:46,846 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 19:16:46,847 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 19:16:46,977 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 19:24:54,894 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 19:24:54,902 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-02 19:24:55,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-02 19:24:55,178 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 19:24:56,430 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 19:24:58,413 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 19:24:59,823 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 19:25:00,032 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 19:25:00,033 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 19:25:00,178 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 22:50:40,004 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 22:50:40,012 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-02 22:50:40,703 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-02 22:50:40,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 22:50:42,030 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 22:50:44,259 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 22:50:45,806 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 22:50:46,018 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 22:50:46,019 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 22:50:46,163 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 22:51:18,873 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 22:51:18,880 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-02 22:51:19,152 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-02 22:51:19,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 22:51:20,416 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 22:51:22,488 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 22:51:23,731 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 22:51:23,970 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 22:51:23,972 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 22:51:24,163 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 22:54:33,794 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 22:54:33,804 - QA Saif Prodhan -INFO - User able to open edge driver
+2022-09-02 22:54:37,192 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 22:54:39,013 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 22:54:39,859 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 22:54:40,021 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 22:54:40,021 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 22:54:40,103 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-02 22:58:18,246 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 22:58:18,256 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-02 23:13:34,356 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 23:13:34,364 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-02 23:13:35,577 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-09-02 23:13:35,919 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+2022-09-02 23:13:36,332 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file geckodriver-v0.31.0-win64.zip
+2022-09-02 23:13:36,387 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\prodh\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-09-02 23:14:39,997 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 23:14:40,004 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-02 23:14:41,007 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-09-02 23:14:41,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\prodh\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-09-02 23:19:06,476 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-02 23:19:06,484 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-02 23:19:06,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-02 23:19:06,761 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 23:19:08,017 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-02 23:19:10,222 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-02 23:19:11,652 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-02 23:19:11,873 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-02 23:19:11,874 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-02 23:19:12,012 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 21:15:59,927 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 21:15:59,937 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 21:16:01,330 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 21:16:01,364 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-09-03 21:16:02,287 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+2022-09-03 21:16:08,335 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver_win32.zip
+2022-09-03 21:16:08,631 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 21:16:11,473 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 21:16:19,764 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 21:16:22,111 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 21:16:22,272 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 21:16:22,272 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 21:16:22,350 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 21:24:17,250 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 21:24:17,257 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 21:24:17,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 21:24:17,541 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 21:24:18,763 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 21:24:22,200 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 21:24:24,255 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 21:24:24,417 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 21:24:24,418 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 21:24:24,504 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:07:21,781 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:07:21,785 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 23:07:22,469 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 23:07:22,486 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 23:07:23,853 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:07:27,595 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:07:29,073 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:07:29,236 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:07:29,237 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:07:29,314 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:08:08,059 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:08:08,067 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 23:08:08,332 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 23:08:08,345 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 23:08:09,496 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:08:12,431 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:08:13,584 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:08:13,800 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:08:13,800 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:08:13,888 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:19:24,058 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:19:24,067 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:19:24,846 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using operadriver 104.0.5112.81 (resolved driver for Opera 90)
+2022-09-03 23:19:24,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/operasoftware/operachromiumdriver/releases to seek operadriver
+2022-09-03 23:19:25,654 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://github.com/operasoftware/operachromiumdriver/releases/download/v.104.0.5112.81/operadriver_win64.zip
+2022-09-03 23:19:37,048 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file operadriver_win64.zip
+2022-09-03 23:19:37,205 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Operadriver: C:\Users\prodh\AppData\Local\Temp\18066386909313988307\operadriver_win64\operadriver.exe
+2022-09-03 23:19:37,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.opera.driver as C:\Users\prodh\.cache\selenium\operadriver\win64\104.0.5112.81\operadriver.exe
+2022-09-03 23:19:39,694 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:19:42,366 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:19:44,250 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:19:44,419 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:19:44,419 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:19:44,497 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:19:59,285 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:19:59,292 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:19:59,549 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using operadriver 104.0.5112.81 (resolved driver for Opera 90)
+2022-09-03 23:19:59,564 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.opera.driver as C:\Users\prodh\.cache\selenium\operadriver\win64\104.0.5112.81\operadriver.exe
+2022-09-03 23:20:01,323 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:20:04,651 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:20:07,007 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:20:07,174 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:20:07,176 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:20:07,253 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:20:56,611 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:20:56,621 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:22:28,942 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:22:28,950 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:22:51,745 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:22:51,753 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:22:52,005 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using operadriver 104.0.5112.81 (resolved driver for Opera 90)
+2022-09-03 23:22:52,021 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.opera.driver as C:\Users\prodh\.cache\selenium\operadriver\win64\104.0.5112.81\operadriver.exe
+2022-09-03 23:22:53,592 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:22:59,519 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:23:02,037 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:23:02,214 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:23:02,215 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:23:02,286 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:24:06,148 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:24:06,155 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:24:07,285 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-09-03 23:24:08,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\prodh\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-09-03 23:25:26,157 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:25:26,164 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:27:28,785 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:27:28,791 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:27:29,804 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-09-03 23:27:30,257 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\prodh\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-09-03 23:34:05,279 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:34:05,286 - QA Saif Prodhan -INFO - User able to open opera driver
+2022-09-03 23:34:06,922 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:34:11,134 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:34:13,046 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:34:13,229 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:34:13,230 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:34:13,303 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:36:12,629 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:36:12,638 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:43:07,959 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:43:07,963 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:43:45,574 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:43:45,585 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:54:50,376 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:54:50,384 - QA Saif Prodhan -INFO - User able to open firefox driver
+2022-09-03 23:55:13,882 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:55:13,889 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 23:55:14,145 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 23:55:14,160 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 23:55:15,382 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:55:19,533 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:55:21,233 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:55:21,407 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:55:21,408 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:55:21,477 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-03 23:55:45,927 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-03 23:55:45,936 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-03 23:55:46,229 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-03 23:55:46,244 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-03 23:55:47,468 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-03 23:55:50,580 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-03 23:55:51,790 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-03 23:55:51,953 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-03 23:55:51,953 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-03 23:55:52,038 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-04 00:07:16,956 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-04 00:07:16,964 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-04 00:07:17,233 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-04 00:07:17,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 00:07:18,486 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-04 00:07:20,665 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-04 00:07:21,823 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-04 00:07:21,982 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-04 00:07:21,983 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-04 00:07:22,046 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-05 06:49:49,952 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-05 06:49:49,960 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-05 06:49:51,003 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-05 06:49:51,021 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-05 06:49:52,527 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-05 06:49:54,815 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-05 06:49:56,081 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-05 06:49:56,241 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-05 06:49:56,242 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-05 06:49:56,309 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-05 09:56:13,403 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-05 09:56:13,406 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-05 09:56:14,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-05 09:56:14,177 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-05 09:56:15,713 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-05 09:56:19,982 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-05 09:56:21,738 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-05 09:56:21,900 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-05 09:56:21,901 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-05 09:56:21,992 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 10:20:24,471 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 10:20:24,478 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 10:20:25,093 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 10:20:25,104 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 10:20:26,253 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 10:20:29,763 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 10:20:30,814 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 10:20:30,996 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 10:20:30,997 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 10:20:31,084 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 12:54:11,903 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 12:54:11,907 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 12:54:12,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 12:54:12,515 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 12:54:14,605 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 12:54:21,750 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 12:54:24,138 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 12:54:24,354 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 12:54:24,355 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 12:54:24,492 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 12:55:09,448 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 12:55:09,453 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 12:55:09,700 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 12:55:09,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 12:55:10,858 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 12:55:13,687 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 12:55:15,649 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 12:55:15,884 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 12:55:15,886 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 12:55:16,047 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 13:09:30,046 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 13:09:30,051 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 13:09:30,306 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 13:09:30,317 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 13:09:31,525 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 13:09:34,588 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 13:09:36,606 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 13:09:36,825 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 13:09:36,826 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 13:09:36,955 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 13:16:36,007 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 13:16:36,014 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 13:16:36,265 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 13:16:36,278 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 13:16:37,503 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 13:16:40,218 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 13:16:41,864 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 13:16:42,072 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 13:16:42,073 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 13:16:42,214 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 13:37:29,358 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 13:37:29,362 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 13:37:29,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 13:37:29,642 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 13:37:30,924 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 13:37:36,333 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 13:37:38,442 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 13:37:38,663 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 13:37:38,663 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 13:37:38,807 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 13:40:45,497 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 13:40:45,501 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 13:40:45,772 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 13:40:45,784 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 13:40:47,106 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 13:40:50,274 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 13:40:52,179 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 13:40:52,406 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 13:40:52,407 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 13:40:52,551 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid
+2022-09-06 13:42:38,300 - QA Saif Prodhan -INFO - User able to open any browser
+2022-09-06 13:42:38,305 - QA Saif Prodhan -INFO - User able to open chrome driver
+2022-09-06 13:42:38,570 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-06 13:42:38,581 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\prodh\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-06 13:42:39,846 - QA Saif Prodhan -INFO - User able to enter {string} URL
+2022-09-06 13:42:42,618 - QA Saif Prodhan -INFO - User able to click on the Sign-in button
+2022-09-06 13:42:44,034 - QA Saif Prodhan -INFO - User able to enter userName
+2022-09-06 13:42:44,247 - QA Saif Prodhan -INFO - User able to enter the password
+2022-09-06 13:42:44,248 - QA Saif Prodhan -INFO - User able to click on Login button
+2022-09-06 13:42:44,422 - QA Saif Prodhan -INFO - User able to verify information as {string} on the grid

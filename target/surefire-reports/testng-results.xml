@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T17:42:37Z" name="ZooplaRelease" finished-at="2022-09-06T17:42:47Z" duration-ms="9254">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:zooplarelease.myrunner.ZRmyRunner@cb0755b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-09-06T17:42:37Z" name="@Sanity" finished-at="2022-09-06T17:42:47Z" duration-ms="9254">
+      <class name="zooplarelease.myrunner.ZRmyRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:zooplarelease.myrunner.ZRmyRunner@cb0755b]" started-at="2022-09-06T17:42:37Z" name="setUpClass" finished-at="2022-09-06T17:42:38Z" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:zooplarelease.myrunner.ZRmyRunner@cb0755b]" started-at="2022-09-06T17:42:38Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-06T17:42:47Z" duration-ms="8902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User able login the application with valid user credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[User able to Login the Zoopla application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:zooplarelease.myrunner.ZRmyRunner@cb0755b]" started-at="2022-09-06T17:42:47Z" name="tearDownClass" finished-at="2022-09-06T17:42:47Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- zooplarelease.myrunner.ZRmyRunner -->
+    </test> <!-- @Sanity -->
+  </suite> <!-- ZooplaRelease -->
+</testng-results>

@@ -1,0 +1,17 @@
+URL = https://www.zoopla.co.uk/
+
+UATURL = https://www.zoopla.co.uk/
+QAURL = https://www.zoopla.co.uk/
+PROD = https://www.zoopla.co.uk/
+
+userName = prodhansaif@yahoo.com
+pwd = saifuL12
+
+
+browser = chrome
+
+ChromePath = chrome
+FireFoxPath = firefox
+OperaPath = opera 
+SafariPath = safari
+MEdge  = edge
